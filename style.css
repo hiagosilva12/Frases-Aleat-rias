@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+h1{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 2rem;
+}
+
+span{
+    border: solid 2px green;
+    font-size: 35px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 1rem;
+}
