@@ -25,3 +25,16 @@ p{
         display: flex;
     }
 }
+
+div{
+    padding: 1rem;
+}
+
+button{
+    cursor: pointer;
+    border: green 1px solid;
+    color: white;
+    font-size: 18px;
+    width: 100px;
+    height: 30px;
+}
