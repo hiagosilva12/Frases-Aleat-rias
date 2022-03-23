@@ -12,10 +12,16 @@ h1{
     padding: 2rem;
 }
 
-span{
+p{
     border: solid 2px green;
     font-size: 35px;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     padding-left: 1rem;
+}
+@media(max-width: 425px) {
+    p{
+        font-size: 25px;
+        display: flex;
+    }
 }
